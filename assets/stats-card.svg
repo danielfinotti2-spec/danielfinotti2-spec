@@ -1,0 +1,38 @@
+<svg width="760" height="190" viewBox="0 0 760 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Resumo do perfil Daniel Finotti</title>
+  <desc id="desc">Card com foco em Python, web, estudos e portfólio.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="760" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1d1232"/>
+    </linearGradient>
+    <linearGradient id="line" x1="40" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2f80ed"/>
+      <stop offset="0.55" stop-color="#c93bff"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-180 0; 180 0; -180 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="758" height="188" rx="12" fill="url(#card)" stroke="#30363d" stroke-width="2"/>
+  <rect x="38" y="36" width="684" height="4" rx="2" fill="url(#line)"/>
+  <text x="40" y="78" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Resumo</text>
+  <text x="40" y="110" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="15">Desenvolvedor Python em formação, criando projetos web e automações.</text>
+  <g transform="translate(40 132)">
+    <rect width="118" height="32" rx="16" fill="#2f80ed"/>
+    <text x="59" y="21" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">Python</text>
+  </g>
+  <g transform="translate(170 132)">
+    <rect width="92" height="32" rx="16" fill="#c93bff"/>
+    <text x="46" y="21" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">Web</text>
+  </g>
+  <g transform="translate(274 132)">
+    <rect width="122" height="32" rx="16" fill="#334155"/>
+    <text x="61" y="21" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">Automação</text>
+  </g>
+  <g transform="translate(408 132)">
+    <rect width="132" height="32" rx="16" fill="#111827" stroke="#475569"/>
+    <text x="66" y="21" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">Portfólio</text>
+  </g>
+  <text x="648" y="110" fill="#c93bff" font-family="Consolas, Monaco, monospace" font-size="44" font-weight="800">{ }</text>
+</svg>
