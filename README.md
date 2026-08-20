@@ -15,6 +15,9 @@
   <a href="https://github.com/danielfinotti2-spec">
     <img src="https://img.shields.io/badge/GitHub-c93bff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://euodeene.shop/">
+    <img src="https://img.shields.io/badge/Portfolio-121520?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <img src="https://img.shields.io/badge/Python-2f80ed?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Em%20formacao-6f28d9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Em formacao" />
 </p>
@@ -82,6 +85,7 @@
 </p>
 
 - GitHub: `https://github.com/danielfinotti2-spec`
+- Portfolio: `https://euodeene.shop/`
 - Email: `danielfinotti2@gmail.com`
 
 ---
