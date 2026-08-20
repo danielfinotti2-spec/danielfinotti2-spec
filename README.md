@@ -5,7 +5,7 @@
 <h1 align="center">Oi, eu sou Daniel Finotti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=C93BFF&center=true&vCenter=true&width=680&lines=Desenvolvedor+Python+em+formacao;Cursando+tecnologia+e+desenvolvimento+de+software;Criando+projetos+web+e+automacoes;Sempre+aprendendo+e+evoluindo" alt="Texto animado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=C93BFF&center=true&vCenter=true&width=760&lines=Desenvolvedor+Python+em+forma%C3%A7%C3%A3o;Cursando+tecnologia+e+desenvolvimento+de+software;Criando+projetos+web+e+automa%C3%A7%C3%B5es;Sempre+aprendendo+e+evoluindo" alt="Texto animado" />
 </p>
 
 <p align="center">
@@ -16,20 +16,20 @@
     <img src="https://img.shields.io/badge/GitHub-c93bff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://euodeene.shop/">
-    <img src="https://img.shields.io/badge/Portfolio-121520?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-121520?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
   <img src="https://img.shields.io/badge/Python-2f80ed?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Em%20formacao-6f28d9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Em formacao" />
+  <img src="https://img.shields.io/badge/Em%20forma%C3%A7%C3%A3o-6f28d9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Em formação" />
 </p>
 
 ---
 
 ## Sobre mim
 
-- Faco Python e estou evoluindo em logica, automacao e projetos web.
+- Faço Python e estou evoluindo em lógica, automação e projetos web.
 - Atualmente cursando tecnologia e desenvolvimento de software.
 - Gosto de transformar ideias em sistemas simples, bonitos e funcionais.
-- Estou sempre praticando, testando coisas novas e melhorando meu portfolio.
+- Estou sempre praticando, testando coisas novas e melhorando meu portfólio.
 
 ## Projeto em destaque
 
@@ -38,12 +38,12 @@
     <td width="65%">
       <h3>Perfil GitHub</h3>
       <p>
-        Projeto com visual dark, animacoes e foco em apresentacao profissional
-        para mostrar minha evolucao com Python, web e tecnologia.
+        Projeto com visual dark, animações e foco em apresentação profissional
+        para mostrar minha evolução com Python, web e tecnologia.
       </p>
       <p>
         <strong>Status:</strong> em desenvolvimento<br />
-        <strong>Foco:</strong> Python, portfolio e identidade visual
+        <strong>Foco:</strong> Python, portfólio e identidade visual
       </p>
     </td>
     <td width="35%">
@@ -66,12 +66,12 @@
 ## Agora estudando
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Logica%20e%20automacao-2f80ed?style=for-the-badge&logo=python&logoColor=white" alt="Python logica e automacao" />
+  <img src="https://img.shields.io/badge/Python-L%C3%B3gica%20e%20automa%C3%A7%C3%A3o-2f80ed?style=for-the-badge&logo=python&logoColor=white" alt="Python lógica e automação" />
   <img src="https://img.shields.io/badge/Web-HTML%20CSS%20JS-c93bff?style=for-the-badge&logo=javascript&logoColor=white" alt="Web HTML CSS JS" />
   <img src="https://img.shields.io/badge/Curso-Tecnologia%20e%20Software-121520?style=for-the-badge&logo=bookstack&logoColor=white" alt="Curso tecnologia e software" />
 </p>
 
-## Estatisticas
+## Estatísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=danielfinotti2-spec&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="GitHub stats" />
@@ -81,11 +81,11 @@
 ## Onde me encontrar
 
 <p>
-  Meu espaco principal para projetos e estudos:
+  Meu espaço principal para projetos e estudos:
 </p>
 
 - GitHub: `https://github.com/danielfinotti2-spec`
-- Portfolio: `https://euodeene.shop/`
+- Portfólio: `https://euodeene.shop/`
 - Email: `danielfinotti2@gmail.com`
 
 ---
