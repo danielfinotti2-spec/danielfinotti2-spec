@@ -1,0 +1,45 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Finotti profile banner</title>
+  <desc id="desc">Dark GitHub-style banner with purple glow and the name Daniel Finotti.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#11131b"/>
+      <stop offset="0.42" stop-color="#22113f"/>
+      <stop offset="1" stop-color="#0c0f18"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="110" y1="50" x2="1090" y2="265" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#191b26"/>
+      <stop offset="0.45" stop-color="#6f28d9"/>
+      <stop offset="1" stop-color="#c93bff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 146) rotate(156) scale(560 220)">
+      <stop stop-color="#ffffff" stop-opacity="0.2"/>
+      <stop offset="0.43" stop-color="#b347ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#11131b" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="74" y="22" width="1052" height="280" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <g filter="url(#shadow)">
+    <rect x="110" y="50" width="980" height="220" rx="16" fill="#121520"/>
+    <rect x="124" y="64" width="952" height="192" rx="14" fill="url(#panel)"/>
+    <rect x="124" y="64" width="952" height="192" rx="14" fill="url(#glow)"/>
+  </g>
+
+  <path d="M124 216C250 188 384 231 525 207C667 183 762 137 894 154C972 164 1031 192 1076 177V256H124V216Z" fill="#11131b" fill-opacity="0.52"/>
+  <path d="M124 229C265 202 390 249 542 221C676 197 755 158 897 174C975 183 1037 210 1076 198V256H124V229Z" fill="#7a35d6" fill-opacity="0.24"/>
+
+  <text x="600" y="154" text-anchor="middle" fill="#f8f7ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="0">
+    DANIEL FINOTTI
+  </text>
+  <text x="600" y="200" text-anchor="middle" fill="#e9dcff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0">
+    Developer | Creative Web Projects
+  </text>
+
+  <rect x="142" y="82" width="70" height="10" rx="5" fill="#ffffff" fill-opacity="0.25"/>
+  <rect x="988" y="82" width="58" height="10" rx="5" fill="#ffffff" fill-opacity="0.22"/>
+  <circle cx="1048" cy="87" r="5" fill="#ffffff" fill-opacity="0.26"/>
+</svg>
