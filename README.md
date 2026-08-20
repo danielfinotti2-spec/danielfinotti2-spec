@@ -5,8 +5,7 @@
 <h1 align="center">Oi, eu sou Daniel Finotti</h1>
 
 <p align="center">
-  Desenvolvedor em formacao, criando projetos web com foco em interfaces bonitas,
-  organizadas e faceis de usar.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=C93BFF&center=true&vCenter=true&width=680&lines=Desenvolvedor+Python+em+formacao;Cursando+tecnologia+e+desenvolvimento+de+software;Criando+projetos+web+e+automacoes;Sempre+aprendendo+e+evoluindo" alt="Texto animado" />
 </p>
 
 <p align="center">
@@ -16,18 +15,18 @@
   <a href="https://github.com/danielfinotti2-spec">
     <img src="https://img.shields.io/badge/GitHub-c93bff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Portfolio-121520?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  <img src="https://img.shields.io/badge/Open%20to%20learn-6f28d9?style=for-the-badge&logo=sparkles&logoColor=white" alt="Open to learn" />
+  <img src="https://img.shields.io/badge/Python-2f80ed?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Em%20formacao-6f28d9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Em formacao" />
 </p>
 
 ---
 
 ## Sobre mim
 
-- Estudando desenvolvimento web e criando projetos praticos.
-- Gosto de transformar ideias em telas modernas e funcionais.
-- Sempre melhorando minhas habilidades em front-end, organizacao de codigo e design.
-- Atualmente trabalhando em projetos web para evoluir meu portfolio.
+- Faco Python e estou evoluindo em logica, automacao e projetos web.
+- Atualmente cursando tecnologia e desenvolvimento de software.
+- Gosto de transformar ideias em sistemas simples, bonitos e funcionais.
+- Estou sempre praticando, testando coisas novas e melhorando meu portfolio.
 
 ## Projeto em destaque
 
@@ -36,12 +35,12 @@
     <td width="65%">
       <h3>Perfil GitHub</h3>
       <p>
-        Projeto com visual inspirado em painel dark, foco em apresentacao profissional
-        e uma experiencia moderna para portfolio no GitHub.
+        Projeto com visual dark, animacoes e foco em apresentacao profissional
+        para mostrar minha evolucao com Python, web e tecnologia.
       </p>
       <p>
         <strong>Status:</strong> em desenvolvimento<br />
-        <strong>Foco:</strong> interface, portfolio e identidade visual
+        <strong>Foco:</strong> Python, portfolio e identidade visual
       </p>
     </td>
     <td width="35%">
@@ -56,8 +55,17 @@
   <img src="https://img.shields.io/badge/HTML5-121520?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-121520?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-121520?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-121520?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/React-121520?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/GitHub-121520?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## Agora estudando
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Logica%20e%20automacao-2f80ed?style=for-the-badge&logo=python&logoColor=white" alt="Python logica e automacao" />
+  <img src="https://img.shields.io/badge/Web-HTML%20CSS%20JS-c93bff?style=for-the-badge&logo=javascript&logoColor=white" alt="Web HTML CSS JS" />
+  <img src="https://img.shields.io/badge/Curso-Tecnologia%20e%20Software-121520?style=for-the-badge&logo=bookstack&logoColor=white" alt="Curso tecnologia e software" />
 </p>
 
 ## Estatisticas
