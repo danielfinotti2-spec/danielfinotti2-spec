@@ -47,7 +47,7 @@
       </p>
     </td>
     <td width="35%">
-      <img src="https://github-readme-stats.vercel.app/api?username=danielfinotti2-spec&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="GitHub stats" />
+      <img src="./assets/project-card.svg" alt="Card do projeto Perfil GitHub" width="100%" />
     </td>
   </tr>
 </table>
@@ -74,8 +74,7 @@
 ## Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danielfinotti2-spec&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfinotti2-spec&layout=compact&theme=midnight-purple&hide_border=true" alt="Top languages" />
+  <img src="./assets/stats-card.svg" alt="Resumo do perfil Daniel Finotti" width="100%" />
 </p>
 
 ## Onde me encontrar
