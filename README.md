@@ -42,14 +42,6 @@ Aqui compartilho meus projetos, experimentos e interesses na área de desenvolvi
   </tr>
 </table>
 
-<p><strong>3D & FiveM:</strong></p>
-<table>
-  <tr>
-    <td><img src="./assets/fivem-icon.svg" alt="FiveM" title="FiveM" width="65" height="65"/></td>
-    <td><img src="./assets/modelagem-3d-icon.svg" alt="Modelagem 3D" title="Modelagem 3D" width="65" height="65"/></td>
-    <td><img src="./assets/mapas-icon.svg" alt="Mapas e cenários" title="Mapas e cenários para FiveM" width="65" height="65"/></td>
-  </tr>
-</table>
 
 <p><strong>Ambientes & Ferramentas:</strong></p>
 <table>
