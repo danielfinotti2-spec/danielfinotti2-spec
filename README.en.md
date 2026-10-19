@@ -42,14 +42,6 @@ Here I share my projects, experiments, and interests in software development. Ch
   </tr>
 </table>
 
-<p><strong>3D & FiveM:</strong></p>
-<table>
-  <tr>
-    <td><img src="./assets/fivem-icon.svg" alt="FiveM" title="FiveM" width="65" height="65"/></td>
-    <td><img src="./assets/modelagem-3d-icon.svg" alt="3D Modeling" title="3D Modeling" width="65" height="65"/></td>
-    <td><img src="./assets/mapas-icon.svg" alt="Maps and environments" title="Maps and environments for FiveM" width="65" height="65"/></td>
-  </tr>
-</table>
 
 <p><strong>Environments & Tools:</strong></p>
 <table>
